@@ -1,4 +1,5 @@
 //这是小明写的计算机
+//这是我写的计算机核心逻辑
 import java.util.Scanner;
 
 public class Calculator {
